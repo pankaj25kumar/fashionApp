@@ -4,6 +4,9 @@
     box-sizing: border-box;
    
 }
+body{
+    height:90%;
+}
 #img1{
     width: 11rem;
     height: 23rem;
