@@ -4,12 +4,9 @@
     box-sizing: border-box;
    
 }
-body{
-    height: 100%;
-}
 #img1{
-    width: 13rem;
-    height: 26rem;
+    width: 11rem;
+    height: 23rem;
     margin: 5rem 1rem 6rem 2rem;
     border-radius: 200px;
 }
@@ -28,8 +25,8 @@ body{
     top: 20rem;
 }
 #hero{
+    margin-top: -50px;
     position: relative;
-    height: 60%;
 }
 footer{
     display: flex;
@@ -57,7 +54,6 @@ footer{
     border: none;
     color: #fff;
     font-size: 20px;
-    bottom: 0rem;
 }
 #homeBtn a{
     text-decoration: none;
