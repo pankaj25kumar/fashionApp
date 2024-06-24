@@ -17,15 +17,15 @@ body{
     width: 130px;
     border-radius: 180px;
     position: absolute;
-    top:8rem;
-    right: 10%;
+    top:7rem;
+    right: 8%;
 }
 #img3{    
     width: 130px;
     border-radius: 50%;
     position: absolute;
-    right: 10%;
-    top: 20rem;
+    right: 8%;
+    top: 18rem;
 }
 #hero{
     min-width: 400px;
