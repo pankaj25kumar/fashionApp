@@ -56,18 +56,17 @@ footer{
     width: 80%;
     height: 4rem;
     border-radius: 50px;
-    border: none;
     color: #fff;
     font-size: 20px;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
     text-align: center;
-    padding-top: 17px;
+    padding-top: 15px;
+    text-decoration: none;
 }
 #signin{
     text-decoration: none;
     color: #704f38;
-
 }
 #name{
     color: #383636;
