@@ -28,7 +28,7 @@ body{
     gap: 20px;
     width: 90%;
     position: relative;
-    marging-left: 10px;
+    marging-left: 2rem;
 }
 #bottomImg{
     width: 350px;
