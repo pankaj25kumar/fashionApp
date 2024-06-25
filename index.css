@@ -56,14 +56,16 @@ footer{
     width: 80%;
     height: 4rem;
     border-radius: 50px;
-    color: #fff;
     border: none;
+    text-align: center;
+}
+#homeBtn a{
+    text-decoration: none;
+    color: #fff;
     font-size: 20px;
     text-decoration: none;
     font-family: "Poppins", sans-serif;
-    text-align: center;
     padding-top: 15px;
-    text-decoration: none;
 }
 #signin{
     text-decoration: none;
